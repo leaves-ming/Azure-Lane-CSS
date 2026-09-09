@@ -6,6 +6,9 @@ Original illustration: [Pixiv artwork #102665807](https://www.pixiv.net/artworks
 
 ![Screenshot of Bristol from Azur Lane rendered with pure HTML and CSS](bristol.png)
 
+You can view this picture here:
+https://leaves-ming.github.io/Azure-Lane-CSS
+
 The drawing reconstructs the reference image's RGB color data on a **600 × 818** canvas:
 
 1. Consecutive pixels with the same color are grouped into color runs, while blank areas use a shared background color.
